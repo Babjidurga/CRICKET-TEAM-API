@@ -1,3 +1,4 @@
+#To check whether the code is working in a fine manner You can check with the app.http file 
 # Cricket Team
 
 Given two files `app.js` and a database file `cricketTeam.db` consisting a table `cricket_team`.
